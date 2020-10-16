@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 适配各种系统升级引起公共问题，避免全部放到CommonSDK,造成非必要的升级
                        DESC
 
-  s.homepage         = 'https://github.com/zhengxiaolang/YHAdapt'
+  s.homepage         = 'https://github.com/XmYlzYhkj/YHAdapt'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhengxiaolang' => 'haifeng3099@126.com' }
-  s.source           = { :git => 'https://github.com/zhengxiaolang/YHAdapt.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XmYlzYhkj/YHAdapt.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

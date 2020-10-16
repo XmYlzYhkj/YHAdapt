@@ -1,5 +1,5 @@
 PODS:
-  - YHAdapt (0.1.0)
+  - YHAdapt (1.0.0)
 
 DEPENDENCIES:
   - YHAdapt (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YHAdapt: 339c155d95e67a726d10f25e76a474ae84d22011
+  YHAdapt: fdbeefb6f2bd68a1e6cfcc9eafb383d4427765db
 
 PODFILE CHECKSUM: 9ed145b413f4c40bb95bdfd60a942f868c87d6d4
 

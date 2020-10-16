@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UITableViewCell+YHAdapt.h"
 
 FOUNDATION_EXPORT double YHAdaptVersionNumber;
 FOUNDATION_EXPORT const unsigned char YHAdaptVersionString[];
