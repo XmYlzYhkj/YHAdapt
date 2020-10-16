@@ -1,0 +1,6 @@
+framework module Pods_YHAdapt_Tests {
+  umbrella header "Pods-YHAdapt_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
