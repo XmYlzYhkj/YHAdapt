@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YHAdapt'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of YHAdapt.'
+  s.version          = '1.0.0'
+  s.summary          = '适配各种系统升级引起公共问题'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+适配各种系统升级引起公共问题，避免全部放到CommonSDK,造成非必要的升级
                        DESC
 
   s.homepage         = 'https://github.com/zhengxiaolang/YHAdapt'

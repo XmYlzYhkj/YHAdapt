@@ -1,0 +1,6 @@
+framework module YHAdapt {
+  umbrella header "YHAdapt-umbrella.h"
+
+  export *
+  module * { export * }
+}
